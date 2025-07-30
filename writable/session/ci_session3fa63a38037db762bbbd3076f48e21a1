@@ -1,0 +1,14 @@
+__ci_last_regenerate|i:1753253226;frete|i:20;_ci_previous_url|s:30:"http://localhost:8081/carrinho";carrinho|a:1:{i:0;a:6:{s:10:"produto_id";s:2:"10";s:11:"variacao_id";s:2:"12";s:4:"nome";s:12:"leonardo - p";s:10:"quantidade";s:1:"1";s:5:"preco";s:5:"10.00";s:8:"subtotal";d:10;}}endereco|a:5:{s:3:"cep";s:8:"04181160";s:10:"logradouro";s:9:"Rua Silas";s:6:"bairro";s:19:"Jardim Maria Estela";s:6:"cidade";s:10:"São Paulo";s:6:"estado";s:2:"SP";}msg|s:642:"Erro ao enviar email de confirmação: <pre>Unable to send email using SMTP. Your server might not be configured to send mail using this method.<br><pre>Date: Wed, 23 Jul 2025 06:41:44 +0000
+From: &quot;Loja&quot; &lt;domcarvalho1997@gmail.com&gt;
+Return-Path: &lt;domcarvalho1997@gmail.com&gt;
+To: leonardomajornior@gmail.com
+Subject: =?UTF-8?Q?Confirma=C3=A7=C3=A3o=20do=20seu=20pedido=20#25?=
+Reply-To: &lt;domcarvalho1997@gmail.com&gt;
+User-Agent: CodeIgniter
+X-Sender: domcarvalho1997@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;688084280abad0.15417218@gmail.com&gt;
+Mime-Version: 1.0
+
+</pre></pre>";__ci_vars|a:1:{s:3:"msg";s:3:"old";}
